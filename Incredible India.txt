@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>INCREDIBE INDIA</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+body {
+  background-image: url('background 2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+    <header> 
+   <H7 font style="font-family:Fantasy","text-align:center"><font size="7">ICREDIBLE INDAIA</font></H7>
+        <h1>Explore Rajasthan</h1>
+        <nav>
+            <ul><font size="5">
+                <li><a href="https://en.wikipedia.org/wiki/Rajasthan">About</a></li>
+                <li><a href="https://www.thrillophilia.com/historical-places-in-rajasthan#:~:text=Historical%20Monuments%20of%20Rajasthan,Jal%20Mahal%20and%20many%20more!">Monuments</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Culture_of_Rajasthan">Culture</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Rajasthani_cuisine">Food</a></li>
+           </font> </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="hero">
+
+            <h2 style="font-family:Fantasy"><font size ="6">WELCOME TO THE LAND OF KINGS </font></h2>
+            <p><font size="5">Discover the rich history, vibrant culture, and stunning landscapes of Rajasthan.</font></p>
+        </section>
+        
+        <section id="about">
+            <h2>About Rajasthan</h2>
+            <p><font size="5">Rajasthan, known as the "Land of Kings", is a state in northern India. Famous for
+ its historical forts, palaces, art, and culture, Rajasthan is a popular destination for tourists.
+It is on India's northwestern side, where it comprises most of the wide and inhospitable Thar
+ Desert (also known as the Great Indian Desert) and shares a border with the Pakistani 
+provinces of Punjab to the northwest and Sindh to the west, along the Sutlej-Indus River valley.</font></p>
+        </section>
+        
+        <section id="monuments">
+            <h2 style="font-family:Fantasy"><font size="6">FAMOUS MONUMENTS</font></h2>
+            <article>
+                <h3 style="font-family:Fantasy"><font size ="5">AMBER FORT </h3></font>
+               <p><img src="Amer Fort.jpg" alt="Amber Fort"align="right"
+width="500"
+height="200"><font size="5"> One of the top tourist attractions of Jaipur, the huge Amer Palace Fort sits atop a small hill, and is located at a <BR>distance about 11 km from 
+                 the main city. The magnificent Amer Fort is an extensive palace complex that has been built with pale yellow and 
+                 pink sandstone, and with white marble.</font></p>
+  
+<H5><font size ="6"><b>HISTORY OF THE FORT</b></font></H5><p><font size="5">Amer was once known as Dhundar and was ruled by the Kachhwahas from<BR> the 11th to the 16th century, until the capital was moved from here to Jaipur.<BR>
+ Raja Man Singh built this fort in 1592 AD and Raja Jai Sigh I expanded<BR> and renovated it later. While many such old structures have been either destroyed or<BR>
+replaced by other things, this fort has stood against all the tests of time and invasions.</font></p>
+           </article>
+   <H6 style="font-family:Fantasy"><font size="5">KULDHARA VILLAGE</font> </H6>
+
+<p><img src="Kuldhara.jpg" 
+alt="Kuldhara"align="right"
+width="500"
+height=200"><font size="5">Kuldhara is a ghost village about 17 kilometres west of Jaisalmer. Three centuries ago it was a prosperous town, but 
+today it is an abandoned village shrouded in mystery. The village was established in 1291 by the Paliwal Brahmins, and was a 
+rather prosperous community thanks to their ability to grow bumper crops in the arid desert. But one night, in 1825, all the people
+ in Kuldhara and the nearby 83 villages vanished in dark. Legend says that Salim Singh, the evil prime minister, set his eyes upon the 
+daughter of the village head and declared he would marry her, with or without her consent. He threatened the villagers with dire consequences
+ if they did not comply with his wishes. Rather than give in to his demands, the council of the villagers decide to leave their ancestral homes 
+overnight. But before leaving they cursed Kuldhara so that no one would ever be able to settle there. True to the curse, the village remains abandoned.
+ Nobody has been able to spend even a night in the village. The ruins of Kuldhara are a fine example of the architectural excellence of that era and draw
+ photographers and movie-makers to their narrow lanes. Today, the village is a protected monument under State Archaelogy Department.</font></p>
+
+ <h8 style="font-family:Fantasy"><font size ="6">MEHRANGHAR FORT </font></h8>
+<p><img src="Mehranghar Fort.jpg" 
+alt="Mehranghar Fortsss"align="right"
+width="500"
+height=300"><font size="5">Mehrangarh is a historic fort located in Jodhpur, Rajasthan, India.It was initially built around 1459 by the Rajput ruler of
+ Rathore clan Rao Jodha, though most of the existing structure is from the 17th century built by his successors. The fort has seven gates, which includes
+ main entrance Jai Pol (meaning 'victory gate'), built by Maharaja Man Singh to commemorate his victories over the Jaipur and Bikaner armies in 1806.
+ The Fattehpol (lit. 'victory gate'), commemorates victory of Maharaja Ajit Singh over the Mughals.Within its boundaries, you'll find several palaces known
+ for their intricate carvings and expansive courtyards, a Chamunda Mataji Temple, as well as a museum that houses various relics. A winding road leads to and from
+ the city below. The imprints of the impact of cannonballs fired by attacking armies of Jaipur can still be seen on the second gate. At the north-east of the fort is
+ the chhatri of Kirat Singh Sodha, a soldier who fell on the spot defending Mehrangarh.</font></p>
+
+<H6 style="font-family:Fantasy"><font size="5">JANTAR MANTAR</font> </H6>
+
+<p><img src="Jantar Mantar.jpg" 
+alt="Jnatar  Mantar"align="right"
+width="500"
+height=200"><font size="5">The Jantar Mantar is a collection of 19 astronomical instruments built by the Rajput king Sawai Jai Singh, the founder of Jaipur,
+ Rajasthan. The monument was completed in 1734. It features the world's largest stone sundial, and is a UNESCO World Heritage Site. It is near City 
+Palace and Hawa Mahal. The instruments allow the observation of astronomical positions with the naked eye. The observatory is an example of the Ptolemaic
+ positional astronomy which was shared by many civilizations.The monument features instruments operating in each of the three main classical celestial 
+coordinate systems: the horizon-zenith local system, the equatorial system, and the ecliptic system.The Kanmala Yantraprakara is one that works in two systems and
+ allows transformation of the coordinates directly from one system to the other. It has the biggest sundial in the world.The monument was damaged in the 19th century. 
+Early restoration work was undertaken under the supervision of Major Arthur Garrett, a keen amateur astronomer, during his appointment as Assistant State Engineer for
+ the Jaipur District</font></p>
+
+<H9 style="font-family:Fantasy"><font size="5">JASALMEIR FORT</font> </H9>
+
+<p><img src="Jasalmeir Fort.jpg" 
+alt="Jasalmeir Fort"align="right"
+width="500"
+height=200"><font size="5">Jaisalmer Fort is situated in the city of Jaisalmer, in the Indian state of Rajasthan. It is one of the very few "living forts" in the
+ world (such as Carcassonne, France), as nearly one fourth of the old city's population still resides within the fort. For the better part of its 860-year
+ history, the fort was the city of Jaisalmer. The first settlements outside the fort walls, to accommodate the growing population of Jaisalmer, are said to have come 
+up in the 17th century.Jaisalmer Fort is the second oldest fort in Rajasthan, built in 1156 AD by the Rawal (ruler) Jaisal from whom it derives its name, and stood at 
+the crossroads of important trade routes (including the ancient Silk road). The fort's massive yellow sandstone walls are a tawny lion colour during the day, fading 
+to honey-gold as the sun sets, thereby camouflaging the fort in the yellow desert. For this reason it is also known as the Swarn Durg, Sonar Quila or Golden Fort.
+ The name Sonar Quila (Bengali for Golden Fortress) was popularized by tourists after famous Bengali film of the same name, that was shot in this fort by eminent
+ filmmaker Satyajit Ray. The fort stands amidst the sandy expanse of the great Thar Desert on Trikuta Hill, hence also known as Trikutgarh. It is today located along
+ the southern edge of the city that bears its name; its dominant hilltop location making the sprawling towers of its fortifications visible for many miles around.
+</font></p>
+
+
+
+
+
+
+        </section>
+        
+        <section id="culture">
+            <h2 font style="font-family:Fantasy"><font size="6">LANGUAGE AND CULTURE</font></h2>
+
+            <p><font size="5">Rajasthan has a vibrant culture, with festivals, traditional music, and dance. 
+The primary languages spoken are Hindi and Rajasthani.The culture of Rajasthan includes many artistic 
+traditions that reflect the ancient Indian way of life. Rajasthan is also called the "Land of Kings".
+ It has many tourist attractions and facilities for tourists. This historical state of India attracts 
+tourists and vacationers with its rich culture, tradition, heritage and monuments. It also has some 
+wildlife sanctuaries and national parks.Hindi is the official language of the state, while Rajasthani is the regional language. 
+Other languages spoken in Rajasthan include Sindhi, Punjabi, Gujarati, Marwari, Mewari, Bhilodi, and Malvi. The majority of people
+ in Rajasthan are Hindu, with Muslims making up a significant minority.</font><img src="DANCE.jpg" 
+alt="Rajasthan Dance"align="right"
+width="400"
+height=200">
+<img src="5.jpg" 
+alt="Rajasthan Dance"align="right"
+width="400"
+height=200"></p>
+        </section>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+        
+        <section id="food">
+            <h8 font style="font-family:Fantasy"><font size="6">FOOD AND CUISINE</font></h8>
+            <p><img src="DalBati.jpg" 
+alt="Dal Bati"align="right"
+width="400"
+height=220"><font size="6 "><b>DAL BATI CHURMA</b></font><BR>
+<font size="5">Dal Bati Churma is the most popular dish in Rajasthani cuisine. It is made of three components of bati, dal, and churma. Dal is lentils, bati is a baked wheat ball,
+ and churma is powdered sweetened cereal. Churma is a popular delicacy usually served with baatis and dal. It is coarsely ground wheat crushed and cooked with ghee and 
+sugar. Traditionally it is made by mashing up wheat flour baatis or left over rotis in ghee and jaggery.</font></p>
+ <BR>
+ <BR>
+ <BR>
+<BR>
+<p><img src="Laal Maas.jpg" 
+alt="Mehranghar Fortsss"align="right"
+width="400"
+height=220"><font size="6"><b>LAAL MAAS</b></font><BR>
+<font size="5">Laal maas or Ratto Maas or "red meat" is a meat curry from Rajasthan, India. It is a mutton curry prepared in
+ a sauce of yoghurt and hot spices such as red Mathania chillies. This dish typically is very hot and rich in garlic. The gravy may
+ be thick or liquid and is eaten with chapatis made out of wheat (usually eaten in summers) or bajra (a millet grown in Rajasthan and eaten in the winter months).
+Traditionally, laal maans was made with wild game meat (jungli maans), such as boar or deer and chillies were used to veil the gamy odour of the meat. It was a 
+favourite among the royalties. While the spicy flavour is remained intact now, the meat used is tender mutton.</font></p>
+        </section>
+ <BR>
+ <BR>
+<p><img src="Kalakand.jpg" 
+alt="Kalakand"align="right"
+width="400"
+height=225"><font size="6"><b>KALAKAND</b></font><BR>
+<font size="5">Kalakand is a sweet cheese confection from India. It has been described as "akin to Italian cheesecake, firmer in texture than milk cake, but softer than burfis.
+To prepare kalakand, chhena (Indian cheese) is prepared and strained. Separately, whole milk and water are mixed, boiled, and stirred continuously until the mixture is reduced
+ to half its original volume. The strained chhena is softened using a food processor or by hand kneading. It is then added to the reduced milk-water mixture and cooked
+ until it becomes a thick paste. Then sugar is added, and the mixture is cooked on low heat and stirred continuously until it thickens to a fudge-like consistency.
+ Then ghee (clarified butter) or butter is added, and the mixture is cooked and stirred another five minutes until it acquires a glossy appearance. The mixture is 
+spread onto a buttered tray or platter in the form of a rectangle and garnished with pistachios. After cooling, it is cut into squares and served.</font></p>
+ <BR>
+ <BR>
+<p><img src="MIRCHI.jpg" 
+alt="MIRCHI BADA "align="right"
+width="400"
+height=225"><font size="6 "><b>MIRCHI BADA </b></font><BR>
+<font size="5">Mirchi Bada or Mirchi Vada is a vegetarian fast food dish native to Jodhpur in the Indian state of Rajasthan. The dish is made by stuffing a green chili with
+ indian spices, mashed potato, and gram flour, then it is wrapped in besan batter and fried until golden brown. It is served hot with tomato sauce or occasionally
+ with mint and tamarind chutney. Banana pepper and Bhavnagri chillis are used for making mirchi bada.Mirchi Badas are most consumed during the rainy season in india.
+ In the southern part of India, Mirchi Bada is also referred to as Mirchi Bajji, with stuffing variations from place to place.</font></p>
+ <BR>
+ <BR>
+ <BR>
+ <BR>
+ <BR>
+ <BR>
+<p><img src="Chhach.jpg" 
+alt="Masala Chhach "align="right"
+width="400"
+height=220"><font size="6"><b>MASALA-CHHACH </b></font><BR>
+<font size="5">Chaas is made by churning yogurt (curds/dahi) and cold water together in a pot, using a hand-held instrument called madhani (whipper). This can be consumed plain
+ or seasoned with a variety of spices or made sweet (and then known as Lassi).[3] Chaas can be made from fresh yogurt, and the natural flavour of such chaas is mildly 
+ sweet.Chaas can be consumed plain, but a little salt is usually added. This is the most common seasoning for chaas. Numerous other seasonings and spices can be
+ added to salted chaas, either singly or in combination with each other. These spices are usually roasted in a wok, using a spoonful of cooking oil, before being
+ added to the Chaas. The spices which can be added thus are: Coarsely ground and roasted cumin seeds, curry leaves, asafoetida, grated ginger, very finely diced green 
+chillies and Mustard seeds. Sugar can also be added to chaas, but if sugar is added, then neither salt nor spice is usually used.</font></p>
+        </section>
+            <h10 font style="font-family:Fantasy"><font size="6">HOTELS</font></h10>
+<p><font size="5">1.PRATAP HOTEL</font></p>
+<img src="Hotel1.jpg" 
+alt="PRATAP MAHAL  "align="right"
+width="400"
+height=225"
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+ <p><font size="5">2.TRIDENT JAIPUR</font></p>   
+<img src="Hotel2.jpg" 
+alt="PRATAP MAHAL  "align="right"
+width="400"
+height=225"
+</main>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+ <p><font size="5">3.HOTEL LAKEND</font></p>   
+<img src="Hotel3.jpg" 
+alt="HOTEL LAKEND"align="right"
+width="400"
+height=225"
+</main>
+</section>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<footer>
+        <p>&copy; 2024 Explore Rajasthan. All rights reserved.</p>
+    </footer>
+
+
+    
+</body>
+</html>
